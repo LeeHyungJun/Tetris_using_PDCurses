@@ -18,13 +18,13 @@ Implement TETRIS GAME by using PDCurses lib.
 ```sh
 $(ProjectDir)include
 ```
-
-4. Hit ‘Apply’
-5. And navigate to the `Linker` page, click on the `Input` tab and in the box next to Additional Dependencies, add the following line:
+4. And navigate to the `Linker` page, click on the `Input` tab and in the box next to Additional Dependencies, add the following line:
 
 ```sh
 $(ProjectDir)lib\pdcurses.lib
 ```
+5. Hit ‘Apply’
+
 6. Enjoy Tetris!
 
 
