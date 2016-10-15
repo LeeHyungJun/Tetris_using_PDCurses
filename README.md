@@ -34,6 +34,7 @@ If you get the fatal error (fatal error LNK1112: module machine type 'x64' confl
 http://stackoverflow.com/questions/3563756/fatal-error-lnk1112-module-machine-type-x64-conflicts-with-target-machine-typ
 
 Configuration Manager > Active solution platform: x86
+
 Configuration Manager > Project contexts > Platform : Win32
 
 
