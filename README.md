@@ -18,14 +18,22 @@ Implement TETRIS GAME by using PDCurses lib.
 ```sh
 $(ProjectDir)include
 ```
-4. And navigate to the `Linker` page, click on the `Input` tab and in the box next to Additional Dependencies, add the following line:
+
+4. Hit ‘Apply’
+5. And navigate to the `Linker` page, click on the `Input` tab and in the box next to Additional Dependencies, add the following line:
 
 ```sh
 $(ProjectDir)lib\pdcurses.lib
 ```
-5. Hit ‘Apply’
-
 6. Enjoy Tetris!
+
+### Issue
+
+If you get the fatal error (fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'X86'), refer to as follows..
+
+http://stackoverflow.com/questions/3563756/fatal-error-lnk1112-module-machine-type-x64-conflicts-with-target-machine-typ
+
+
 
 
 ### License
