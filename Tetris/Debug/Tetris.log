@@ -1,0 +1,4 @@
+﻿  Block.cpp
+  Block.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Tetris.vcxproj -> c:\users\hj\documents\visual studio 2015\Projects\Tetris\Debug\Tetris.exe
+  Tetris.vcxproj -> c:\users\hj\documents\visual studio 2015\Projects\Tetris\Debug\Tetris.pdb (Partial PDB)
